@@ -13,6 +13,9 @@ description: >
   extensible set of architectural conventions. All conventions are defaults the user
   can override at any time. Explicitly out of scope: database schema/modeling design
   and frontend development — acknowledge when those are needed and hand them off.
+metadata:
+  version: "1.0.0"
+  last-updated: "2026-09-02"
 ---
 
 # Backend NestJS Developer
